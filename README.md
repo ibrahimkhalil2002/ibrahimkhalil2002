@@ -22,6 +22,8 @@ I love to explore new technologies and continuously improve my coding skills.
 #### 🗄️ Database
 `MongoDB`
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ibrahimkhalil2002)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
 ### 🌱 Currently Learning
