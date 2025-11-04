@@ -159,46 +159,4 @@ I love to explore new technologies and continuously improve my coding skills.
 
 
 
-### Hi there 👋, 
-#### I am a web developer
-
-
-
-### 📫 Contact Me
-- 📧 Email: [iam.ibrahim.bd1@gmail.com](mailto:iam.ibrahim.bd1@gmail.com)  
-- 🌐 Facebook: [Ibrahim Khalil](https://www.facebook.com/profile.php?id=61578762492967)  
-- 💻 GitHub: [ibrahimkhalil2002](https://github.com/ibrahimkhalil2002)
-
-
-### ⚙️ Tech Stack
-- **Frontend:** HTML | CSS | Tailwind CSS | JavaScript | React | Redux | Next.js  
-- **Backend:** Node.js | Express.js | Mongoose  
-- **Database:** MongoDB  
-
-
-- 🌱 I’m currently learning backend 
-- 💬 Ask me about web development 
-- 📫 How to reach me: iam.ibrahim.bd1@gmail.com
-
-- 
-### 🏆 GitHub Stats
-![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimkhalil2002&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimkhalil2002&layout=compact&theme=tokyonight)
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ibrahimkhalil2002)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=61578762492967)  
-
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ibrahimkhalil2002)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimkhalil2002)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimkhalil2002&show_icons=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/ibrahimkhalil2002/contributions?format=svg&private=false)  
-
-
-
 
