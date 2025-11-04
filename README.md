@@ -5,14 +5,31 @@
 ### Hi there 👋, this is ibrahim khalil
 #### I am a web developer
 
+### 🧠 About Me
 I'm a Frontend Developer with a strong interest in building modern, responsive, and user-friendly web applications.  
 I love to explore new technologies and continuously improve my coding skills.
 
-Skills: Frontend:HTML, CSS,  Tailwind CSS, JavaScript , React ,Redux, Next.js,   Backend: Node.js, Express.js ,Mongoose,   MongoDB ,
+### 📫 Contact Me
+- 📧 Email: [iam.ibrahim.bd1@gmail.com](mailto:iam.ibrahim.bd1@gmail.com)  
+- 🌐 Facebook: [Ibrahim Khalil](https://www.facebook.com/profile.php?id=61578762492967)  
+- 💻 GitHub: [ibrahimkhalil2002](https://github.com/ibrahimkhalil2002)
+
+
+### ⚙️ Tech Stack
+- **Frontend:** HTML | CSS | Tailwind CSS | JavaScript | React | Redux | Next.js  
+- **Backend:** Node.js | Express.js | Mongoose  
+- **Database:** MongoDB  
+
 
 - 🌱 I’m currently learning backend 
 - 💬 Ask me about web development 
-- 📫 How to reach me: iam.ibrahim.bd1@gmail.com 
+- 📫 How to reach me: iam.ibrahim.bd1@gmail.com
+
+- 
+### 🏆 GitHub Stats
+![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimkhalil2002&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimkhalil2002&layout=compact&theme=tokyonight)
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ibrahimkhalil2002)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=61578762492967)  
