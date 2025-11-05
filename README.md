@@ -8,8 +8,8 @@
 
 
 
-### 🧠 About Me
-I'm **Ibrahim Khalil**, a passionate **Frontend Developer** from **Bangladesh** 🇧🇩.  
+# 🧠 About Me
+###I'm **Ibrahim Khalil**, a passionate **Frontend Developer** from **Bangladesh** 🇧🇩.  
 I love building modern, responsive, and user-friendly web applications.  
 Currently learning **Next.js** and improving my **Fullstack** skills.  
 ---
