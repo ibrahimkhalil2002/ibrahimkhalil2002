@@ -1,7 +1,7 @@
 
-
+<p align="center">
 <img src="https://scontent.fdac41-1.fna.fbcdn.net/v/t39.30808-6/574379648_122132285006958749_581017649767769000_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeFeNMMkBAikEhDo2PjNuZFkDzj-PVJnYFYPOP49UmdgVkD7jw49VYGFsSKMPacOllC0EQKIhf8wwIFCVbOZNrzs&_nc_ohc=A6P9NL4f9j0Q7kNvwElacq6&_nc_oc=AdnhjWogmzvRY0TcWKY9yyVf-r3GJKIfXi6GrQFfOQ2zbFxZ_wMVniq-W_Lxwbh9Yx4&_nc_zt=23&_nc_ht=scontent.fdac41-1.fna&_nc_gid=tcvX7MxhntNHU8AQK_GBSQ&oh=00_AfgxVwTcpf-iIUqngFg3-PBSAjMZWtUfXY0V2pnTtLqNEA&oe=6910BDFF" alt="Profile Image" width="800" />
-
+</p>
 
 <h1 align="center">👋 Hey there, this'is <span style="color:#00BFFF;"> ibrahim khalil</span></h1>
 <h3 align="center">🌐 Frontend Developer from Bangladesh 🇧🇩</h3>
