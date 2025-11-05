@@ -9,20 +9,39 @@
 
 
 ### 🧠 About Me
-I'm a Frontend Developer with a strong interest in building modern, responsive, and user-friendly web applications.  
-I love to explore new technologies and continuously improve my coding skills.
+I'm **Ibrahim Khalil**, a passionate **Frontend Developer** from **Bangladesh** 🇧🇩.  
+I love building modern, responsive, and user-friendly web applications.  
+Currently learning **Next.js** and improving my **Fullstack** skills.  
 ---
 
-### 🛠️ Tech Stack
 
-#### 🧩 Frontend
-`HTML` • `CSS` • `Tailwind CSS` • `JavaScript` • `React` • `Redux` • `Next.js`
+### 🛠️ Tech Stack  
 
-#### ⚙️ Backend
-`Node.js` • `Express.js` • `Mongoose`
+#### 🧩 Frontend  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+</p>
 
-#### 🗄️ Database
-`MongoDB`
+#### ⚙️ Backend  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" alt="Mongoose" width="40" height="40"/>
+</p>
+
+#### 🗄️ Database  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+</p>
+
+
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ibrahimkhalil2002)](https://github.com/ryo-ma/github-profile-trophy)
 
