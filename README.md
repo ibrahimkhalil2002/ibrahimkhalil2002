@@ -1,7 +1,5 @@
 
-<p align="center">
-<img src="https://scontent.fdac41-2.fna.fbcdn.net/v/t39.30808-6/577834739_122133071696958749_8308082144499965521_n.png?stp=dst-png_s960x960&_nc_cat=103&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeEVaJc5cvy6a2nOlClUL0SQVExmibWiIL1UTGaJtaIgvf6-DhPrJruY_oUJJqnZbMBeHM1FOLjttTAI3bZZehsq&_nc_ohc=fScJHaA5tmMQ7kNvwHugDWE&_nc_oc=AdnfYEXBTyUzRARrTQD6Y-v48YkV0uWa1-sRG-MisvoaBFTh7tu1gvdDMzoWhyNfvUo&_nc_zt=23&_nc_ht=scontent.fdac41-2.fna&_nc_gid=lXfUe3aSa07gszckBFy6gQ&oh=00_Afin45zgkpi-d0pSU2lNTwVL9HAqt3Q7gzTPbQNHZTHdbQ&oe=69160068" alt="Profile Image" width="600" />
-</p>
+
 
 
 
